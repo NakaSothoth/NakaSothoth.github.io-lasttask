@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html jang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ramen is God</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1>Ramen is God</h1>
+        <header>
+            <h3>このサイトは、松山市民である主がオススメの松山市のラーメン屋を紹介するサイトです。</h3>
+            <ul class="nav">
+              <li class="nav"><a href="http://127.0.0.1:3000/最終課題/index.html">Home</a></li>
+              <li class="nav"><a href="各店舗SNS.html">各店舗SNS</a></li>
+              <li class="nav"><a href="各店舗食べログ.html">各店舗食べログ</a></li>
+            </ul>
+        </header>
+            <hr>
+            <h2>各店舗食べログ</h2>
+            <ul class="contents">
+                <li class="contents"><a href="https://tabelog.com/ehime/A3801/A380101/38007145/">大澤麺工房 一葵</a></li>
+                <li class="contents"><a href="https://tabelog.com/ehime/A3801/A380101/38012794/">横浜家系ラーメン 一門家</a></li>
+                <li class="contents"><a href="https://tabelog.com/ehime/A3801/A380101/38013433/">三竹寿</a></li>
+                <li class="contents"><a href="https://tabelog.com/ehime/A3801/A380101/38007851/">味千拉麵</a></li>
+            </ul>
+           <small>&copy;2023 Mao Nakatsuka</smal>
+    </body>
+</html>
